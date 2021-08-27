@@ -1,0 +1,23 @@
+{
+  "name": "javascript-caculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "homepage": "https://kianaz22.github.io/javascript-calculator/",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kianaz22/javascipt-calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kianaz22/javascript-calculator/issues"
+  },
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
